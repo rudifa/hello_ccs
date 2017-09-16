@@ -1,5 +1,5 @@
 # hello_ccs
-**An exercise in creation a new github repo from a TI CCS project**
+**An exercise in creating a new github repo from a TI CCS project**
 
 1. Created a CCS project on local computer: /Users/rudifarkas/ti_workspace_v6_2/hello_ccs
 In CCS Git perspective, created new repository in this directory.
